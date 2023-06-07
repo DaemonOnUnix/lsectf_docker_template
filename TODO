@@ -1,0 +1,2 @@
+- Automatically copy shared libraries from host to container using ldd and COPY
+- Maybe add the instanciation infrastructure to the repository
